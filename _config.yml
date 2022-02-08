@@ -31,7 +31,7 @@ site:
     width: 40
     height: 40
     url: ../images/logo.png
-  title: Hexo # 页面title
+  title: DK-Hexo # 页面title
   favicon: /favicon.png
   board: <p>欢迎交流与分享经验!789</p> # 站点公告
   copyright: false # 底部版权信息
@@ -196,11 +196,11 @@ profile:
   articleSelfBlock: false # 关闭文章下方的自我介绍
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: 昵称
+  author: DK
   author_title: Web Developer & Designer
   author_description: 个人简介。
-  location: Shenzhen, China
-  follow: https://github.com/cofess
+  location: BeiJing, China
+  follow: https://www.lvhejin.cn/?from=DK
   # Social Links
   social:
     links:
